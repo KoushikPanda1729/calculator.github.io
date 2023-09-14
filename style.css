@@ -9,7 +9,7 @@
 
 body {
     background-image: linear-gradient(to bottom right, #f97109, #F7F2ED, #8cf7e3);
-    height: 98.2vh;
+    height: 98.7vh;
     width: 100%;
     background-repeat: no-repeat;
 }
@@ -103,8 +103,8 @@ h1 {
 
 @media(max-width:490px) {
     .calcutatorContainer {
-        max-width: 85%;
-        width: 80%;
+        max-width: 93%;
+        width: 100%;
         margin-top: 1rem;
     }
 
