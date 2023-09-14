@@ -101,7 +101,7 @@ h1 {
     transition: 0.5s;
 }
 
-@media(max-width:415px) {
+@media(max-width:490px) {
     .calcutatorContainer {
         max-width: 85%;
         width: 80%;
